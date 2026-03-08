@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Search_2D",
+            "request": "launch",
+            "mainClass": "Search_2D",
+            "projectName": "Practise_d5cee17d"
+        },
+        {
+            "type": "java",
             "name": "spiral_martix",
             "request": "launch",
             "mainClass": "spiral_martix",
